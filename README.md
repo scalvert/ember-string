@@ -1,4 +1,4 @@
-@ember/string
+@ember/string 
 ==============================================================================
 
 A set of utilities to transform strings extracted from the core of Ember.
